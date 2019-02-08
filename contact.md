@@ -4,8 +4,6 @@ title: Contact Me
 permalink: /contact/
 ---
 
-### Contact me
-
 I can be reached at the following email addresses:
 
 gurpreet [AT] alumni [DOT] cmu [DOT] edu
