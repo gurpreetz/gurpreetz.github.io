@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-#### Mist Systems, Cupertino, CA
+### Mist Systems, Cupertino, CA
 ##### Nov 2016 - Present 
 _Member of Technical Staff, AP Firmware_
 
@@ -21,7 +21,7 @@ to run in conjunction
 * Research in passive analytics of BLE devices including decoding of standard as well as proprietary BLE advertisements 
 * Work closely with the factory for device certification and to facilitate a speed up of the manufacturing line
 
-#### Blue Clover Devices, San Francisco, CA
+### Blue Clover Devices, San Francisco, CA
 ##### July 2015 – Nov 2016    
 _Senior Firmware Engineer, Internet of Things R&D_
 
@@ -36,7 +36,7 @@ _Senior Firmware Engineer, Internet of Things R&D_
   * Compare BLE interface design with implementation to detect inconsistencies
 * Designed and implemented the Firmware and BLE Interface and for a smart lamp
 
-#### Alcatel-Lucent, Mountain View, CA
+### Alcatel-Lucent, Mountain View, CA
 ##### September 2009 – July 2015                                                                           
 _Senior Staff Engineer, IP Division (Mobile Group)_
 
@@ -49,7 +49,7 @@ _Senior Staff Engineer, IP Division (Mobile Group)_
 * Developed a message batching mechanism to reduce the latency in messaging between the control and data planes for the SGW, PGW, and the GGSN. 
 * Added support for handling the Protocol Configuration Options (PCO) at the PGW and the GGSN. 
 
-#### Cisco Systems Inc, San Jose, CA 
+### Cisco Systems Inc, San Jose, CA 
 ##### June 2008 – September 2009
 _Software Engineer (Mobility Services and Location Engineering) Wireless and Security Technology Group_
 
@@ -58,13 +58,13 @@ _Software Engineer (Mobility Services and Location Engineering) Wireless and Sec
 * Improved the overall usability of the location aspects of the WCS. 
 * Created and tested a demo iPhone application to show the basic alarm dashboard of the WCS. This was demonstrated at the Cisco Global Sales Meeting, 2008.
 
-#### Apple Inc, Cupertino, CA
+### Apple Inc, Cupertino, CA
 ##### May 2007-August 2007
 _Engineering Intern, Exploratory Design Group_
 
  Developed a prototype command and event mechanism for seamless network handover between IEEE 802.11, Ethernet, and HSDPA networks based on the draft IEEE 802.21 standard.
  
-#### Tata Consultancy Services Ltd (TCS), Bangalore, India 
+### Tata Consultancy Services Ltd (TCS), Bangalore, India 
 ##### July 2004 – July 2006
 _Assistant Systems Engineer, Wireless Communications R&D_
 
