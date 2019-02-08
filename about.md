@@ -1,10 +1,9 @@
 ---
 layout: post
-title: About
+title: About Me
 permalink: /about/
 ---
 
-## About Me
 I was born and raised in a quiet corner of the sprawling metropolis that is Mumbai (formerly Bombay), India. 
 
 I graduated with a Masters degree from the [Information Networking Institute](www.ini.cmu.edu) at 
