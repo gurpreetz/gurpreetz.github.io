@@ -8,8 +8,8 @@ permalink: /experience/
 ###### Nov 2016 - Present 
 _Member of Technical Staff, AP Firmware_
 
-* Developed firmware on the Mist family of wireless access points for all BLE related functionality, 
-including, but not limited to
+* Developed firmware on the Mist family of [wireless access points](https://www.mist.com/wireless-access-points/) 
+for all BLE related functionality, including, but not limited to
   * interleaving of Mist's patented vBLE, iBeacon, Eddystone-UID, and Eddystone-URL BLE beacon frame formats 
   * scanning as well as advertising together, to allow functionality such as way-finding and asset tracking 
 to run in conjunction
@@ -18,7 +18,8 @@ to run in conjunction
   * Rogue access points and clients
   * HoneyPots
 * Implemented mechanisms and new messaging schemes to reduce load on the cloud based micro-services while reporting information from the access points
-* Research in passive analytics of BLE devices including decoding of standard as well as proprietary BLE advertisements 
+* Research in [passive analytics](https://www.mist.com/bluetooth-le-privacy/) of BLE devices including decoding 
+of standard as well as proprietary BLE advertisements 
 * Work closely with the factory for device certification and to facilitate a speed up of the manufacturing line
 
 ### [Blue Clover Devices](https://www.bcdevices.com/), San Francisco, CA
