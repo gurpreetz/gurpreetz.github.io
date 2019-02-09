@@ -14,4 +14,5 @@ WLANs, and then over to cellular (3G and LTE). Not content with moving communica
 looked towards the minute, focussing on BLE and its applications in IoT. Today, I use my skills in enterprise WiFi 
 development and indoor locationing. 
 
-When I'm not working, you can find me taking [pictures](https://www.instagram.com/gurpreetz/), [reading] (https://goodreads.com/gurpreetz), or fencing. 
+When I'm not working, you can find me taking [pictures](https://www.instagram.com/gurpreetz/),
+[reading](https://goodreads.com/gurpreetz), fencing or travelling. 
