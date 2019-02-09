@@ -10,4 +10,4 @@ I can be reached at the following email addresses:
 
 * gurpreet [AT] ieee [DOT] org
 
-More information can also be found [About](https://about.me/gurpreetz) Pages.
+More information can also be found at [About.Me](https://about.me/gurpreetz).
