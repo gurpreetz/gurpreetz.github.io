@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Master's Thesis: Network Attributes and Location Awareness in Sensor Andrew [[PDF](../master/files/MS_Thesis_SenseSpace.pdf)]
+### Master's Thesis: Network Attributes and Location Awareness in Sensor Andrew [[PDF](https://github.com/gurpreetz/gurpreetz.github.io/blob/master/files/MS_Thesis_SenseSpace.pdf)]
 ##### September 2007 - May 2008
 Sensor Andrew is a wireless sensor network testbed being developed at Carnegie Mellon University (CMU). 
 This large-scale deployment will enable widespread monitoring and instrumentation of the physical environment 
@@ -48,7 +48,7 @@ International Wireless Summit in Aalborg Denmark.
 
 Another of my roles in MAGNET was to develop the MAC layer of the IEEE 802.15.3 standard.
 
-### Integration of WPAN with WLAN for Multimode Reconfigurable Device. [[PDF](../master/files/WLAN_WPAN_Integration.pdf)]
+### Integration of WPAN with WLAN for Multimode Reconfigurable Device. [[PDF](https://github.com/gurpreetz/gurpreetz.github.io/blob/master/files/WLAN_WPAN_Integration.pdf)]
 Abstract: An innovative way of building a personal network (PN) is through an adaptive integration of personal area 
 networks (PAN) with other infrastructure networks. IEEE 802.15.3 is a prominent PAN standard for high data rate air 
 interface. IEEE 802.11 is a successful and popular WLAN standard. As part of building a PN involving many wireless 
