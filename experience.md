@@ -26,12 +26,13 @@ of standard as well as proprietary BLE advertisements
 ###### July 2015 – Nov 2016    
 _Senior Firmware Engineer, Internet of Things R&D_
 
-* Firmware development of an Apple HomeKit (WiFi) compliant, IoT environmental mult-sensor (iHome ISS50) for the home
+* Firmware development of an Apple HomeKit (WiFi) compliant, IoT environmental mult-sensor ([iHome ISS50](https://www.ihomeaudio.com/iSS50/)) for the home
   * Implemented Device Drivers for Ambient Light, Motion, Temperature & Humidity Sensors as well as for the LCD Panel and Display Backlight
   * Created an algorithm to automatically adjust the backlight based on ambient light 
   * Worked with the Hardware team to calibrate temperature, humidity and light readings
   * Held regular meetings with the customer to gather requirements, and subsequently to report on the project status 
-* Initiated and Created an open-source GoLang based tool to help with BLE device development which can
+* Initiated and Created an [open-source GoLang based tool](https://github.com/gurpreetz/ble-tools) to help with BLE 
+device development which can
   * Scan for all devices advertising in the area, and connect to them
   * Connect to specific devices and creates an XML as well as human readable summary of services and characteristics supported by the BLE device
   * Compare BLE interface design with implementation to detect inconsistencies
@@ -47,14 +48,14 @@ _Senior Staff Engineer, IP Division (Mobile Group)_
 * Designed and developed handling of Time-Of-Day support for policy rule installation when signaled from the PCRF
 * Implemented a DNS based white-listing mechanism on the PGW and GGSN to divert traffic for Deep Packet Inspection (DPI)
 * Add support for handling of Gx Time of Day Procedures for the PGW and GGSN, processing extremely high scale messaging between various modules on the control and data planes.
-* Developed a message batching mechanism to reduce the latency in messaging between the control and data planes for the SGW, PGW, and the GGSN. 
+* Developed a message batching mechanism to reduce the latency in messaging between the control and data planes for the [SGW, PGW, and the GGSN](https://networks.nokia.com/products/7750-service-router/mobile-gateway). 
 * Added support for handling the Protocol Configuration Options (PCO) at the PGW and the GGSN. 
 
 ### [Cisco Systems Inc](https://www.cisco.com/), San Jose, CA 
 ##### June 2008 – September 2009
 _Software Engineer (Mobility Services and Location Engineering) Wireless and Security Technology Group_
 
-* Designed the network calibration tool on the Wireless Control System (WCS) to improve location accuracy on WiFi Networks.
+* Designed the network calibration tool on the Wireless Control System ([WCS](https://www.cisco.com/c/en/us/products/wireless/wireless-control-system/index.html)) to improve location accuracy on WiFi Networks.
 * Added support for Network Mobility Services Protocol (NMSP) version 2 on the Mobility Services Engine (MSE)  to improve the accuracy of indoor wireless location. Collaborated with the Cisco Wireless LAN Controller team to ensure the protocol changes were seamless to the overall system.
 * Improved the overall usability of the location aspects of the WCS. 
 * Created and tested a demo iPhone application to show the basic alarm dashboard of the WCS. This was demonstrated at the Cisco Global Sales Meeting, 2008.
