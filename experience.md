@@ -13,11 +13,13 @@ for all BLE related functionality, including, but not limited to
   * interleaving of Mist's patented vBLE, iBeacon, Eddystone-UID, and Eddystone-URL BLE beacon frame formats 
   * scanning as well as advertising together, to allow functionality such as way-finding and asset tracking 
 to run in conjunction
+  * packet decoding to facilitate BLE analytics
   * power control for transmission of the BLE Signal from the Access Point
 * WiFi threat detection and mitigation for
   * Rogue access points and clients
   * HoneyPots
 * Implemented mechanisms and new messaging schemes to reduce load on the cloud based micro-services while reporting information from the access points
+* Prototyped means of peer to peer upgrades of Access Points
 * Research in [passive analytics](https://www.mist.com/bluetooth-le-privacy/) of BLE devices including decoding 
 of standard as well as proprietary BLE advertisements 
 * Work closely with the factory for device certification and to facilitate a speed up of the manufacturing line
