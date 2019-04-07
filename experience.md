@@ -12,21 +12,26 @@ _Staff Software Engineer, AP Firmware_
 ###### Nov 2016 - Present 
 _Member of Technical Staff, AP Firmware_
 
-* Developed firmware on the Mist family of [wireless access points](https://www.mist.com/wireless-access-points/) 
+* Technical Lead for BLE related development on the Access Point
+  * Development of firmware on the Mist family of [wireless access points](https://www.mist.com/wireless-access-points/) 
 for all BLE related functionality, including, but not limited to
-  * interleaving of Mist's patented vBLE, iBeacon, Eddystone-UID, and Eddystone-URL BLE beacon frame formats 
-  * scanning as well as advertising together, to allow functionality such as way-finding and asset tracking 
+    * interleaving of Mist's patented vBLE, iBeacon, Eddystone-UID, and Eddystone-URL BLE beacon frame formats 
+    * scanning as well as advertising together, to allow functionality such as way-finding and asset tracking 
 to run in conjunction
-  * packet decoding to facilitate BLE analytics
-  * power control for transmission of the BLE Signal from the Access Point
+    * packet decoding to facilitate BLE analytics
+    * power control for transmission of the BLE Signal from the Access Point
+  * Design and prototyping of BLE functionality on the nrf52 family using [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
+  * Research in [passive analytics](https://www.mist.com/bluetooth-le-privacy/) of BLE devices including decoding 
+of standard as well as proprietary BLE advertisements 
 * WiFi threat detection and mitigation for
   * Rogue access points and clients
   * HoneyPots
-* Implemented mechanisms and new messaging schemes to reduce load on the cloud based micro-services while reporting information from the access points
+* Bring up of 802.11ax wireless utility and driver
+* Implemented mechanisms and new messaging schemes to reduce load on the cloud based micro-services while reporting information from the access points such as
+  * BloomFilter based filtering on Connected Wireless Clients and BLE Assets of Interest
+  * Creation of new, smaller kafka topics to reduce load on cloud based subscribers
 * Prototyped means of peer to peer upgrades of Access Points
-* Research in [passive analytics](https://www.mist.com/bluetooth-le-privacy/) of BLE devices including decoding 
-of standard as well as proprietary BLE advertisements 
-* Work closely with the factory for device certification and to facilitate a speed up of the manufacturing line
+* Work closely with the factory for device certification and to facilitate ease of manufacturing
 
 ### [Blue Clover Devices](https://www.bcdevices.com/), San Francisco, CA
 ###### July 2015 – Nov 2016    
