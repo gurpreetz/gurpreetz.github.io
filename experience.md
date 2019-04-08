@@ -4,12 +4,12 @@ title: Experience
 permalink: /experience/
 ---
 ### [Juniper Networks](https://www.juniper.net), Cupertino, CA
-###### Apr 2019 - Present 
+###### Apr 2019 – Present 
 _Staff Software Engineer, AP Firmware_
 * Mist Systems acquired by Juniper Networks
 
 ### [Mist Systems](https://www.mist.com/), Cupertino, CA
-###### Nov 2016 - Present 
+###### Nov 2016 – Present 
 _Member of Technical Staff, AP Firmware_
 
 * Technical Lead for BLE related development on the Access Point
@@ -72,7 +72,7 @@ _Software Engineer (Mobility Services and Location Engineering) Wireless and Sec
 * Created and tested a demo iPhone application to show the basic alarm dashboard of the WCS. This was demonstrated at the Cisco Global Sales Meeting, 2008.
 
 ### [Apple Inc](https://www.apple.com/), Cupertino, CA
-##### May 2007-August 2007
+##### May 2007 – August 2007
 _Engineering Intern, Exploratory Design Group_
 
  Developed a prototype command and event mechanism for seamless network handover between IEEE 802.11, Ethernet, and HSDPA networks based on the draft IEEE 802.21 standard.
