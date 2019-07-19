@@ -4,11 +4,21 @@ title: Projects
 permalink: /projects/
 ---
 
-### BLE Tools
+### [BLE Tools](https://github.com/gurpreetz/ble-tools)
 ##### Summer 2016
 An open-source GoLang based tool to help with Bluetooth Low Energy device development. The tool can
   * Scan for all devices advertising in the area, and connect to them
   * Connect to specific devices and create an XML as well as human readable summary of services and characteristics supported by the BLE device
   * Compare BLE interface design with implementation to detect inconsistencies
 
-Implementation can be found on [Github](https://github.com/gurpreetz/ble-tools). 
+
+
+### [I'm Home](https://github.com/gurpreetz/imhome)
+##### May 2019
+A simple introduction to some IoT work in a GoLang based system. 
+
+This project turns on the lights in my apartment whenever a specifiend device connects to the wireless network. 
+I leverage a Mist access point and its open [APIs](https://api-class.mist.com/) to determine when my phone connects to 
+my home WiFi network. This then automatically triggers a push to [IFTTT](https://ifttt.com/) to trigger my 
+smart outlet to turn on, thus ensuring I never walk into my apartment in the dark. 
+
