@@ -5,7 +5,7 @@ permalink: /experience/
 ---
 ### [Juniper Networks](https://www.juniper.net), Cupertino, CA
 ###### Apr 2019 – Present 
-_Staff Software Engineer, AP Firmware_
+_Senior Staff Software Engineer, AP Firmware_
 * Mist Systems acquired by Juniper Networks
 
 ### [Mist Systems](https://www.mist.com/), Cupertino, CA
