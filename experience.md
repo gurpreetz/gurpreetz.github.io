@@ -4,9 +4,22 @@ title: Experience
 permalink: /experience/
 ---
 ### [Juniper Networks](https://www.juniper.net), Cupertino, CA
+##### (Mist Systems acquired by Juniper Networks)
 ###### Apr 2019 – Present 
 _Senior Staff Software Engineer, AP Firmware_
-* Mist Systems acquired by Juniper Networks
+* Created a Wireless Abstraction layer to simplify application development across different wireless chips and their unique APIs
+* General Firmware stability improvements
+  * Mark the secondary partition as unbootable while an upgrade to it is in progress
+  * Design and implementation of a Firmware Manifest file
+  * Self validate an image with its manifest file to ensure a proper upgrade
+  * Automatic recovery from bad configuration
+* AP Upgrades
+  * Systemic improvements to all AP upgrades including validation of the image being downloaded to the Access Point
+  * Productized peer to peer AP upgrades
+* FIPS
+  * Changes to uBoot to incorporate FIPS verification
+  * Improvements to cloud based AP upgrader service to run FIPS verification after an upgrade
+* Abstracted GCP/S3 APIs for ease of development
 
 ### [Mist Systems](https://www.mist.com/), Cupertino, CA
 ###### Nov 2016 – Present 
