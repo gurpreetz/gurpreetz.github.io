@@ -7,19 +7,20 @@ permalink: /experience/
 ##### (Mist Systems acquired by Juniper Networks)
 ###### Apr 2019 – Present 
 _Senior Staff Software Engineer, AP Firmware_
-* Created a Wireless Abstraction layer to simplify application development across different wireless chips and their unique APIs
-* General Firmware stability improvements
-  * Mark the secondary partition as unbootable while an upgrade to it is in progress
-  * Design and implementation of a Firmware Manifest file
-  * Self validate an image with its manifest file to ensure a proper upgrade
+* Architect for AP FIPS Development
+  * Designed, Implemented and Verified a FIPS Compliant upgrade process
+  * Firmware improvements to allow for crypto and firmware self validation on demand as well as on system boot
+  * Zeroization of APs in case of extreme security violations
+* Firmware stability and scalability improvements including, but not limited to
   * Automatic recovery from bad configuration
-* AP Upgrades
-  * Systemic improvements to all AP upgrades including validation of the image being downloaded to the Access Point
+  * Prevent booting into unreliable, or bad, firmware partitions
+  * Restructuring Data Structures to use RW locks
+* AP Upgrade Process
+  * Systemic improvements to all cloud to AP upgrades
   * Productized peer to peer AP upgrades
-* FIPS
-  * Changes to uBoot to incorporate FIPS verification
-  * Improvements to cloud based AP upgrader service to run FIPS verification after an upgrade
-* Abstracted GCP/S3 APIs for ease of development
+    * Successfully upgraded over 1000 APs at a time, across various customer sites 
+* Created a Wireless Hardware Abstraction Layer to simplify application development across the 802.11ac and 802.11ax family of APs
+* Abstracted GCP/S3 Storage Access APIs for ease of multi-cloud development
 
 ### [Mist Systems](https://www.mist.com/), Cupertino, CA
 ###### Nov 2016 – Present 
