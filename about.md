@@ -14,7 +14,7 @@ and [802.15.4](https://en.wikipedia.org/wiki/IEEE_802.15#IEEE_802.15.4:_Low_Rate
 WLANs ([802.11](https://en.wikipedia.org/wiki/IEEE_802.11)), and then over to cellular ([3G](https://en.wikipedia.org/wiki/3G) 
 and [LTE](https://en.wikipedia.org/wiki/LTE_(telecommunication))). Not content with communication over larger distances, 
 I then looked towards the minute, focussing on [BLE](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) and its 
-applications in IoT. Today, I use my skills in enterprise WiFi development and indoor locationing. 
+applications in IoT. Today, I use my skills in cloud driven, AI focused enterprise WiFi development and indoor locationing.
 
 When I'm not working, you can find me taking [pictures](https://www.instagram.com/gurpreetz/),
-[reading](https://goodreads.com/gurpreetz), fencing or travelling. 
+[reading](https://goodreads.com/gurpreetz), or travelling.

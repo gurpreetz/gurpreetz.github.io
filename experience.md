@@ -12,6 +12,7 @@ _Senior Staff Software Engineer, AP Firmware_
   * Firmware improvements to allow for crypto and firmware self validation on demand as well as on system boot
   * Zeroization of APs in case of extreme security violations
   * Implemented an SP800-90B Compliant HWRNG Device Driver based on the ATECC608A TPM
+* Designed, Implemented and [Patented](https://uspto.report/patent/grant/10862742) a method for conveying AP error codes over BLE advertisements
 * Firmware stability and scalability improvements including, but not limited to
   * Automatic recovery from bad configuration
   * Prevent booting into unreliable, or bad, firmware partitions
