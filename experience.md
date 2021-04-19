@@ -8,7 +8,7 @@ permalink: /experience/
 ###### Apr 2019 – Present 
 _Senior Staff Software Engineer, AP Firmware_
 * Architect for AP FIPS Development
-  * Designed, Implemented and Verified a FIPS (140-2) Compliant upgrade process
+  * Designed, Implemented and Verified a FIPS (140-2) [Certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3901) upgrade process
   * Firmware improvements to allow for crypto and firmware self validation on demand as well as on system boot
   * Zeroization of APs in case of extreme security violations
   * Implemented an SP800-90B Compliant HWRNG Device Driver based on the ATECC608A TPM
@@ -16,8 +16,8 @@ _Senior Staff Software Engineer, AP Firmware_
 * Firmware stability and scalability improvements including, but not limited to
   * Automatic recovery from bad configuration
   * Prevent booting into unreliable, or bad, firmware partitions
-* AP Upgrade Process
-  * Systemic improvements to all cloud to AP upgrades
+* Cloud driven Access Point Upgrades
+  * Systemic improvements to all Cloud to AP upgrades
   * Productized peer to peer AP upgrades
     * Successfully upgraded over 1000 APs at a time, across various customer sites 
 * Created a Wireless Hardware Abstraction Layer to simplify application development across the 802.11ac and 802.11ax family of APs
