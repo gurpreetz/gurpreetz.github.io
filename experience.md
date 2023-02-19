@@ -5,8 +5,21 @@ permalink: /experience/
 ---
 ### [Juniper Networks](https://www.juniper.net), Cupertino, CA
 ##### (Mist Systems acquired by Juniper Networks)
-###### Apr 2019 – Present 
+###### Dec 2021 – Present
+_Software Engineering Sr Manager, AP Firmware_
+* Manage a global team of 5 engineers to design and implement:
+  * Wired Synthetic Testing on a network
+  * Mesh and Client Bridge on all Access Points
+  * Local distribution of 11r keys to allow for faster and seamless roaming
+  * Cloud based power tables to better handle regulatory changes of wireless networks
+
+###### Apr 2019 – Dec 2021
 _Senior Staff Software Engineer, AP Firmware_
+* Team Lead for the bring up of the 6GHz Wireless Access Points([AP45](https://www.juniper.net/us/en/products/access-points/ap45-access-point.html) & [AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html))
+* Cloud driven Access Point Upgrades
+  * Systemic improvements to all Cloud to AP upgrades
+  * Productized peer to peer AP upgrades
+    * Successfully upgraded over 5000 APs at a time, across various customer sites 
 * Architect for AP FIPS Development
   * Designed, Implemented and Verified a FIPS (140-2) [Certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3901) upgrade process
   * Firmware improvements to allow for crypto and firmware self validation on demand as well as on system boot
@@ -16,12 +29,7 @@ _Senior Staff Software Engineer, AP Firmware_
 * Firmware stability and scalability improvements including, but not limited to
   * Automatic recovery from bad configuration
   * Prevent booting into unreliable, or bad, firmware partitions
-* Cloud driven Access Point Upgrades
-  * Systemic improvements to all Cloud to AP upgrades
-  * Productized peer to peer AP upgrades
-    * Successfully upgraded over 1000 APs at a time, across various customer sites 
 * Created a Wireless Hardware Abstraction Layer to simplify application development across the 802.11ac and 802.11ax family of APs
-* Abstracted GCP/S3 Storage Access APIs for ease of multi-cloud development
 
 ### [Mist Systems](https://www.mist.com/), Cupertino, CA
 ###### Nov 2016 – Present 
