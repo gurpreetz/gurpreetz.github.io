@@ -18,12 +18,11 @@ _Senior Staff Software Engineer, AP Firmware_
 * Team Lead for the bring up of the 6GHz Wireless Access Points([AP45](https://www.juniper.net/us/en/products/access-points/ap45-access-point.html) & [AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html))
 * Cloud driven Access Point Upgrades
   * Systemic improvements to all Cloud to AP upgrades
-  * Productized peer to peer AP upgrades
-    * Successfully upgraded over 5000 APs at a time, across various customer sites 
+  * Productized Peer to Peer AP upgrades
+    * Successfully upgraded over 5000 APs at a site using a single seed 
 * Architect for AP FIPS Development
-  * Designed, Implemented and Verified a FIPS (140-2) [Certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3901) upgrade process
+  * Designed, Implemented and Verified a FIPS (140-2) [Certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3901) Access Point
   * Firmware improvements to allow for crypto and firmware self validation on demand as well as on system boot
-  * Zeroization of APs in case of extreme security violations
   * Implemented an SP800-90B Compliant HWRNG Device Driver based on the ATECC608A TPM
 * Designed, Implemented and [Patented](https://uspto.report/patent/grant/10862742) a method for conveying AP error codes over BLE advertisements
 * Firmware stability and scalability improvements including, but not limited to
@@ -41,19 +40,17 @@ for all BLE related functionality, including, but not limited to
     * interleaving of Mist's patented vBLE, iBeacon, Eddystone-UID, and Eddystone-URL BLE beacon frame formats 
     * scanning as well as advertising together, to allow functionality such as way-finding and asset tracking 
 to run in conjunction
-    * packet decoding to facilitate BLE analytics
+    * packet decoding to facilitate BLE passive analytics
     * power control for transmission of the BLE Signal from the Access Point
-  * Design and prototyping of BLE functionality on the nrf52 family using [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
+  * Design and prototyping of BLE functionality on the Nordic nRF52 family using [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
   * Research in [passive analytics](https://www.mist.com/bluetooth-le-privacy/) of BLE devices including decoding 
 of standard as well as proprietary BLE advertisements 
 * WiFi threat detection and mitigation for
   * Rogue access points and clients
   * HoneyPots
-* Bring up of 802.11ax wireless utility and driver
 * Implemented mechanisms and new messaging schemes to reduce load on the cloud based micro-services while reporting information from the access points such as
   * BloomFilter based filtering on Connected Wireless Clients and BLE Assets of Interest
   * Creation of new, smaller kafka topics to reduce load on cloud based subscribers
-* Prototyped means of peer to peer upgrades of Access Points
 * Work closely with the factory for device certification and to facilitate ease of manufacturing
 
 ### [Blue Clover Devices](https://www.bcdevices.com/), San Francisco, CA
