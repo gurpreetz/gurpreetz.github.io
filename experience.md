@@ -12,6 +12,12 @@ _Software Engineering Sr Manager, AP Firmware_
   * Mesh and Client Bridge on all Access Points
   * Local distribution of 11r keys to allow for faster and seamless roaming
   * Cloud based power tables to better handle regulatory changes of wireless networks
+* Lead a multi-company collaboration to introduce support for Electronic Shelf Labels (ESL) on the Mist Platform
+* Leverage FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
+* Liasion between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
+  * Improved Manufacturing worflows for all Access Points
+  * Reduced cloud cost by intelligently reporting stats and events for the Data Science team to process in Marvis
+  * Introduction of new locationing and BLE technologies, such as AP to AP Locationing and Battery-Less beacons
 
 ###### Apr 2019 – Dec 2021
 _Senior Staff Software Engineer, AP Firmware_
