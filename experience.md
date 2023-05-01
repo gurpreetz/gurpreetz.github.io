@@ -15,7 +15,7 @@ _Software Engineering Sr Manager, AP Firmware_
 * Lead a multi-company collaboration to introduce support for Electronic Shelf Labels (ESL) on the Mist Platform
 * Leverage FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
 * Liasion between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
-  * Improved Manufacturing worflows for all Access Points
+  * Improved Manufacturing workflows for all Access Points
   * Reduced cloud cost by intelligently reporting stats and events for the Data Science team to process in Marvis
   * Introduction of new locationing and BLE technologies, such as AP to AP Locationing and Battery-Less beacons
 
