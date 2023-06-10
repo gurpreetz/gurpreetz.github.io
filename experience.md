@@ -12,7 +12,7 @@ _Software Engineering Sr Manager, AP Firmware_
   * Mesh and Client Bridge on all Access Points
   * Local distribution of 11r keys to allow for faster and seamless roaming
   * Cloud based power tables to better handle regulatory changes of wireless networks
-* Oversee bring up of the ([AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html))
+* Oversee bring up of the [AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html)
 * Lead a multi-company collaboration to introduce support for Electronic Shelf Labels (ESL) on the Mist Platform
 * Leverage FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
 * Liasion between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
@@ -22,7 +22,7 @@ _Software Engineering Sr Manager, AP Firmware_
 
 ###### Apr 2019 – Dec 2021
 _Senior Staff Software Engineer, AP Firmware_
-* Team Lead for the bring up of the ([AP45](https://www.juniper.net/us/en/products/access-points/ap45-access-point.html) & [AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html))
+* Team Lead for the bring up of the [AP45](https://www.juniper.net/us/en/products/access-points/ap45-access-point.html) & [AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html)
 * Cloud driven Access Point Upgrades
   * Systemic improvements to all Cloud to AP upgrades
   * Productized Peer to Peer AP upgrades
