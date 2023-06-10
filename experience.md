@@ -7,11 +7,12 @@ permalink: /experience/
 ##### (Mist Systems acquired by Juniper Networks)
 ###### Dec 2021 – Present
 _Software Engineering Sr Manager, AP Firmware_
-* Manage a global team of 5 engineers to design and implement:
+* Manage a global team of 7 engineers to design and implement:
   * Wired Synthetic Testing on a network
   * Mesh and Client Bridge on all Access Points
   * Local distribution of 11r keys to allow for faster and seamless roaming
   * Cloud based power tables to better handle regulatory changes of wireless networks
+* Oversee bring up of the ([AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html))
 * Lead a multi-company collaboration to introduce support for Electronic Shelf Labels (ESL) on the Mist Platform
 * Leverage FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
 * Liasion between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
@@ -21,11 +22,11 @@ _Software Engineering Sr Manager, AP Firmware_
 
 ###### Apr 2019 – Dec 2021
 _Senior Staff Software Engineer, AP Firmware_
-* Team Lead for the bring up of the 6GHz Wireless Access Points([AP45](https://www.juniper.net/us/en/products/access-points/ap45-access-point.html) & [AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html))
+* Team Lead for the bring up of the ([AP45](https://www.juniper.net/us/en/products/access-points/ap45-access-point.html) & [AP34](https://www.juniper.net/us/en/products/access-points/ap34-access-point.html))
 * Cloud driven Access Point Upgrades
   * Systemic improvements to all Cloud to AP upgrades
   * Productized Peer to Peer AP upgrades
-    * Successfully upgraded over 5000 APs at a site using a single seed 
+    * Successfully upgraded over 5000 APs at a site using a single seed
 * Architect for AP FIPS Development
   * Designed, Implemented and Verified a FIPS (140-2) [Certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/3901) Access Point
   * Firmware improvements to allow for crypto and firmware self validation on demand as well as on system boot
