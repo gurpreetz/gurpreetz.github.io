@@ -13,7 +13,7 @@ _Software Engineering Sr Manager, AP Firmware_
   * Local distribution of 11r keys to allow for faster and seamless roaming
   * Cloud based power tables to better handle regulatory changes of wireless networks
 * Oversee bring up of the [AP24](https://www.juniper.net/us/en/products/access-points/ap24-access-point.html)
-* Lead a multi-company collaboration to introduce support for Electronic Shelf Labels (ESL) on the Mist Platform
+* Lead a multi-company collaboration to introduce support for [Electronic Shelf Labels (ESL)](https://www.mist.com/documentation/esl-how-to-configuration/) on the Mist Platform
 * Leverage FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
 * Liasion between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
   * Improved Manufacturing workflows for all Access Points
