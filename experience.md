@@ -7,12 +7,12 @@ permalink: /experience/
 ##### (Mist Systems acquired by Juniper Networks)
 ###### Dec 2021 – Present
 _Software Engineering Sr Manager, AP Firmware_
-* Manage a global team of 7 engineers to design and implement:
-  * Wired Synthetic Testing on a network
+* Manage a global team of 7 engineers to architect, design, and implement:
+  * [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) - an always on framework to proactively validate user networks
   * Mesh and Client Bridge on all Access Points
   * Local distribution of 11r keys to allow for faster and seamless roaming
   * Cloud based power tables to better handle regulatory changes of wireless networks
-* Oversee bring up of the [AP24](https://www.juniper.net/us/en/products/access-points/ap24-access-point.html)
+* Oversee the bring up of the [AP24](https://www.juniper.net/us/en/products/access-points/ap24-access-point.html) and [AP64](https://www.juniper.net/us/en/products/access-points/ap64-access-point-datasheet.html) Wi-Fi 6e Access Points
 * Lead a multi-company collaboration to introduce support for [Electronic Shelf Labels (ESL)](https://www.mist.com/documentation/esl-how-to-configuration/) on the Mist Platform
 * Leverage FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
 * Liasion between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
