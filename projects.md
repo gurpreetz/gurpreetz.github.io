@@ -5,6 +5,14 @@ permalink: /projects/
 ---
 
 ## Patents
+### Orientation based transmission power ([USPTO 11,917,554](https://uspto.report/patent/app/20220295420))
+Disclosed are embodiments of a device that includes an orientation sensor. Based on the device's orientation,
+a transmit power of the device is limited to ensure that transmission of the device do not exceed regulatory
+requirements. The transmit power limit is based, in some embodiments, on a manufacturer or model of the device,
+which indicates a position of one or more antennas relative to the device, and allows for a determination of
+an amount of power transmitted above the horizon in a given orientation.
+
+
 ### Method for conveying AP error codes over BLE advertisements ([USPTO 10,862,742](https://uspto.report/patent/grant/10862742))
 Methods and apparatus for automatically obtaining status from an isolated AP that cannot connect to the cloud.
 The obtained status information is then used to automatically mitigate the issue and accelerate connecting the
