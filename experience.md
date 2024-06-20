@@ -9,7 +9,7 @@ permalink: /experience/
 _Software Engineering Director_
 * [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) - an always on framework to proactively validate user networks
 * [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) on the Mist AP Platform
-* [Indoor Location Services](https://www.juniper.net/documentation/us/en/software/mist/location-services/topics/concept/mist-loc-svcs-overview.html)
+* [Indoor Location Services](https://www.juniper.net/us/en/solutions/indoor-location.html)
 
 ###### Dec 2021 – Jun 2024
 _Software Engineering Sr Manager, AP Firmware_
