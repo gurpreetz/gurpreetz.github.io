@@ -5,6 +5,18 @@ permalink: /projects/
 ---
 
 ## Patents
+### Cloud-based management of hardware compliance data for access point devices ([USPTO 12,238,565](https://ppubs.uspto.gov/dirsearch-public/patents/html/12238565?source=USPAT&requestToken=eyJzdWIiOiI3MGNlZWY4Yy0wMTgyLTRlZTMtYTM3MS05MDdiZThhN2RhMzUiLCJ2ZXIiOiIxMDkwOGNmYS1hNzk2LTQ3MzQtOGE2Zi1lNmExYTQ5ZmU5MjIiLCJleHAiOjB9))
+A plurality of access point (AP) devices configured to provide a wireless network at a site within a 
+geographic region and a management system (NMS) configured to manage the plurality of APs are described.
+An AP device sends, to the NMS, a message including version information of hardware compliance data 
+currently stored at the AP device. The NMS determines, based on the version information, whether the 
+first version of the hardware compliance data stored at the AP device is in compliance with applicable
+regulations of the geographic region. When the first version is not in compliance, the AP device receives, 
+from the NMS, a second version of the hardware compliance data that is in compliance with the applicable 
+regulations of the geographic region. The AP device enables operation of one or more hardware components 
+of the AP device in accordance with the second version of the hardware compliance data.
+
+
 ### Orientation based transmission power ([USPTO 11,917,554](https://uspto.report/patent/app/20220295420))
 Disclosed are embodiments of a device that includes an orientation sensor. Based on the device's orientation,
 a transmit power of the device is limited to ensure that transmission of the device do not exceed regulatory
