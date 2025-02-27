@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ## Patents
-### Cloud-based management of hardware compliance data for access point devices ([USPTO 12,238,565](https://ppubs.uspto.gov/dirsearch-public/patents/html/12238565?source=USPAT&requestToken=eyJzdWIiOiI3MGNlZWY4Yy0wMTgyLTRlZTMtYTM3MS05MDdiZThhN2RhMzUiLCJ2ZXIiOiIxMDkwOGNmYS1hNzk2LTQ3MzQtOGE2Zi1lNmExYTQ5ZmU5MjIiLCJleHAiOjB9))
+### Cloud-based management of hardware compliance data for access point devices ([USPTO 12,238,565](https://patents.google.com/patent/US20230308928A1/))
 A plurality of access point (AP) devices configured to provide a wireless network at a site within a 
 geographic region and a management system (NMS) configured to manage the plurality of APs are described.
 An AP device sends, to the NMS, a message including version information of hardware compliance data 
