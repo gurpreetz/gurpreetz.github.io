@@ -3,6 +3,19 @@ layout: page
 title: Experience
 permalink: /experience/
 ---
+### [Hewlett Packard Enterprise](https://www.hpe.com/), Cupertino, CA
+##### (Juniper Networks acquired by Hewlett Packard Enterprise)
+###### Nov 2025 - Present
+_Director of Engineering_
+* [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html), a Networking Digital Experience Twin - proactively validating user networks
+* [Indoor Location Services](https://www.juniper.net/us/en/solutions/indoor-location.html) (including the mobile SDK and apps)
+* IoT including, but not limited to
+  * [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) on the Mist AP Platform
+  * [Bluetooth Low Energy](https://www.juniper.net/documentation/us/en/software/mist/location-services/topics/task/mist-broadcast-ble-beacon.html)
+  * Ultra-Wideband
+  * Zigbee
+* [Access Point Firmware](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/concept/access-points.html)
+
 ### [Juniper Networks](https://www.juniper.net), Cupertino, CA
 ##### (Mist Systems acquired by Juniper Networks)
 ###### Jul 2024 – Present
