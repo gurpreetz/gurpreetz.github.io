@@ -12,7 +12,7 @@ _Director of Engineering_
 * IoT including, but not limited to
   * [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) on the Mist AP Platform
   * [Bluetooth Low Energy](https://www.juniper.net/documentation/us/en/software/mist/location-services/topics/task/mist-broadcast-ble-beacon.html)
-  * Ultra-Wideband
+  * Ultra-Wideband (for Two-Way Ranging between APs and [Omlox](https://omlox.com/juniper-networks) support)
   * Zigbee
 * [Access Point Firmware](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/concept/access-points.html)
 
