@@ -14,7 +14,7 @@ _Director of Engineering_
   * [Bluetooth Low Energy](https://www.juniper.net/documentation/us/en/software/mist/location-services/topics/task/mist-broadcast-ble-beacon.html)
   * Ultra-Wideband (for Two-Way Ranging between APs and [Omlox](https://omlox.com/juniper-networks) support)
   * Zigbee
-* [Access Point Firmware](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/concept/access-points.html)
+* [Access Point Firmware](https://www.juniper.net/us/en/products/access-points.html)
 
 ### [Juniper Networks](https://www.juniper.net), Cupertino, CA
 ##### (Mist Systems acquired by Juniper Networks)
