@@ -18,7 +18,7 @@ _Director of Engineering_
 
 ### [Juniper Networks](https://www.juniper.net), Cupertino, CA
 ##### (Mist Systems acquired by Juniper Networks)
-###### Jul 2024 – Present
+###### Jul 2024 – Nov 2025
 _Software Engineering Director_
 * [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) - an always on framework to proactively validate user networks
 * [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) on the Mist AP Platform
@@ -34,7 +34,7 @@ _Software Engineering Sr Manager, AP Firmware_
 * Oversee the bring up of the [AP24](https://www.juniper.net/us/en/products/access-points/ap24-access-point.html) and [AP64](https://www.juniper.net/us/en/products/access-points/ap64-access-point-datasheet.html) Wi-Fi 6e Access Points
 * Lead a multi-company collaboration to introduce support for [Electronic Shelf Labels (ESL)](https://www.mist.com/documentation/esl-how-to-configuration/) on the Mist Platform
 * Leverage FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
-* Liasion between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
+* Liaison between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
   * Improved Manufacturing workflows for all Access Points
   * Reduced cloud cost by intelligently reporting stats and events for the Data Science team to process in Marvis
   * Introduction of new locationing and BLE technologies, such as AP to AP Locationing and Battery-Less beacons
@@ -57,7 +57,7 @@ _Senior Staff Software Engineer, AP Firmware_
 * Created a Wireless Hardware Abstraction Layer to simplify application development across the 802.11ac and 802.11ax family of APs
 
 ### [Mist Systems](https://www.mist.com/), Cupertino, CA
-###### Nov 2016 – Present 
+###### Nov 2016 – April 2019
 _Member of Technical Staff, AP Firmware_
 
 * Technical Lead for BLE related development on the Access Point
@@ -83,7 +83,7 @@ of standard as well as proprietary BLE advertisements
 ###### July 2015 – Nov 2016    
 _Senior Firmware Engineer, Internet of Things R&D_
 
-* Firmware development of an Apple HomeKit (WiFi) compliant, IoT environmental mult-sensor ([iHome ISS50](https://www.ihomeaudio.com/iSS50/)) for the home
+* Firmware development of an Apple HomeKit (WiFi) compliant, IoT environmental multi-sensor ([iHome ISS50](https://www.ihomeaudio.com/iSS50/)) for the home
   * Implemented Device Drivers for Ambient Light, Motion, Temperature & Humidity Sensors as well as for the LCD Panel and Display Backlight
   * Created an algorithm to automatically adjust the backlight based on ambient light 
   * Worked with the Hardware team to calibrate temperature, humidity and light readings
@@ -99,14 +99,11 @@ device development which can
 ###### September 2009 – July 2015                                                                           
 _Senior Staff Engineer, IP Division (Mobile Group)_
 
-* Led the design and development of the session manager for the Alcatel-Lucent GGSN. 
-* Designed and developed UE initiated call flows, at the Gn interface, viz. Create, Update, and Delete of PDP Contexts, handovers (inter and intra SGSN), support for bearer binding (without and without PCRF support), and triggers for accounting (at the Ga interface).
-* Led the design and implementation of Lawful Intercept (LI) support for the GGSN, SGW, and PGW, including support for all Intercept Related Information (IRI) messages on the Control Plane
-* Designed and developed handling of Time-Of-Day support for policy rule installation when signaled from the PCRF
-* Implemented a DNS based white-listing mechanism on the PGW and GGSN to divert traffic for Deep Packet Inspection (DPI)
-* Add support for handling of Gx Time of Day Procedures for the PGW and GGSN, processing extremely high scale messaging between various modules on the control and data planes.
-* Developed a message batching mechanism to reduce the latency in messaging between the control and data planes for the [SGW, PGW, and the GGSN](https://networks.nokia.com/products/7750-service-router/mobile-gateway). 
-* Added support for handling the Protocol Configuration Options (PCO) at the PGW and the GGSN. 
+* Led end-to-end design and development of the session manager for the Alcatel-Lucent GGSN, including all UE-initiated call flows at the Gn interface — context creation, updates, deletions, inter/intra-SGSN handovers, and bearer binding with and without PCRF support
+* Designed and implemented Lawful Intercept (LI) support across the GGSN, SGW, and PGW, covering all Intercept Related Information (IRI) messages on the control plane
+* Implemented a DNS-based white-listing mechanism on the PGW/GGSN to divert traffic for Deep Packet Inspection (DPI)
+* Added Time-of-Day policy rule support for PCRF-signaled installations and Gx procedures, handling extremely high-scale inter-module messaging across control and data planes
+* Developed a message batching mechanism that reduced control-to-data plane latency for the [SGW, PGW, and GGSN](https://networks.nokia.com/products/7750-service-router/mobile-gateway) — enabling higher-scale messaging between modules under production load
 
 ### [Cisco Systems Inc](https://www.cisco.com/), San Jose, CA 
 ##### June 2008 – September 2009
