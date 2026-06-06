@@ -26,14 +26,14 @@ _Software Engineering Director_
 ###### Dec 2021 – Jun 2024
 _Software Engineering Sr Manager, AP Firmware_
 * Managed a global team of 7 engineers to architect, design, and implement:
-  * [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) - an always on framework to proactively validate user networks
+  * [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) - an always-on framework to proactively validate user networks
   * Mesh and Client Bridge on all Access Points
   * Local distribution of 11r keys to allow for faster and seamless roaming
   * Cloud based power tables to better handle regulatory changes of wireless networks
 * Oversaw the bring up of the [AP24](https://www.juniper.net/us/en/products/access-points/ap24-access-point.html) and [AP64](https://www.juniper.net/us/en/products/access-points/ap64-access-point-datasheet.html) Wi-Fi 6e Access Points
 * Led a multi-company collaboration to introduce support for [Electronic Shelf Labels (ESL)](https://www.mist.com/documentation/esl-how-to-configuration/) on the Mist Platform
 * Leveraged FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
-* Bridged the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
+* Bridged the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which resulted in
   * Improved Manufacturing workflows for all Access Points
   * Reduced cloud cost by intelligently reporting stats and events for the Data Science team to process in Marvis
   * Introduced new location and BLE technologies, such as AP to AP Location and Battery-Less beacons
@@ -56,7 +56,7 @@ _Senior Staff Software Engineer, AP Firmware_
 * Created a Wireless Hardware Abstraction Layer to simplify application development across the 802.11ac and 802.11ax family of APs
 
 ### [Mist Systems](https://www.mist.com/), Cupertino, CA
-###### Nov 2016 – April 2019
+###### Nov 2016 – Apr 2019
 _Member of Technical Staff, AP Firmware_
 
 * Technical Lead for BLE related development on the Access Point
@@ -75,11 +75,11 @@ of standard as well as proprietary BLE advertisements
   * HoneyPots
 * Implemented mechanisms and new messaging schemes to reduce load on the cloud based micro-services while reporting information from the access points such as
   * BloomFilter based filtering on Connected Wireless Clients and BLE Assets of Interest
-  * Creation of new, smaller kafka topics to reduce load on cloud based subscribers
+  * Creation of new, smaller Kafka topics to reduce load on cloud based subscribers
 * Work closely with the factory for device certification and to facilitate ease of manufacturing
 
 ### [Blue Clover Devices](https://www.bcdevices.com/), San Francisco, CA
-###### July 2015 – Nov 2016    
+###### Jul 2015 – Nov 2016
 _Senior Firmware Engineer, Internet of Things R&D_
 
 * Firmware development of an Apple HomeKit (WiFi) compliant, IoT environmental multi-sensor ([iHome ISS50](https://www.ihomeaudio.com/iSS50/)) for the home
@@ -95,7 +95,7 @@ device development which can
 * Designed and implemented the Firmware and BLE Interface for a smart lamp
 
 ### [Alcatel-Lucent](https://networks.nokia.com/), Mountain View, CA
-###### September 2009 – July 2015                                                                           
+###### Sept 2009 – Jul 2015
 _Senior Staff Engineer, IP Division (Mobile Group)_
 
 * Led end-to-end design and development of the session manager for the Alcatel-Lucent GGSN, including all UE-initiated call flows at the Gn interface — context creation, updates, deletions, inter/intra-SGSN handovers, and bearer binding with and without PCRF support
@@ -105,7 +105,7 @@ _Senior Staff Engineer, IP Division (Mobile Group)_
 * Developed a message batching mechanism that reduced control-to-data plane latency for the [SGW, PGW, and GGSN](https://networks.nokia.com/products/7750-service-router/mobile-gateway) — enabling higher-scale messaging between modules under production load
 
 ### [Cisco Systems Inc](https://www.cisco.com/), San Jose, CA 
-###### June 2008 – September 2009
+###### Jun 2008 – Sept 2009
 _Software Engineer (Mobility Services and Location Engineering) Wireless and Security Technology Group_
 
 * Designed the network calibration tool on the Wireless Control System ([WCS](https://www.cisco.com/c/en/us/products/wireless/wireless-control-system/index.html)) to improve location accuracy on WiFi Networks.
@@ -114,13 +114,13 @@ _Software Engineer (Mobility Services and Location Engineering) Wireless and Sec
 * Created and tested a demo iPhone application to show the basic alarm dashboard of the WCS. This was demonstrated at the Cisco Global Sales Meeting, 2008.
 
 ### [Apple Inc](https://www.apple.com/), Cupertino, CA
-###### May 2007 – August 2007
+###### May 2007 – Aug 2007
 _Engineering Intern, Exploratory Design Group_
 
  Developed a prototype command and event mechanism for seamless network handover between IEEE 802.11, Ethernet, and HSDPA networks based on the draft IEEE 802.21 standard.
  
 ### [Tata Consultancy Services Ltd](https://www.tcs.com/), Bangalore, India 
-###### July 2004 – July 2006
+###### Jul 2004 – Jul 2006
 _Assistant Systems Engineer, Wireless Communications R&D_
 
 * Led the research on Game Theory and its applications to Medium Access issues in Wireless Communications.
