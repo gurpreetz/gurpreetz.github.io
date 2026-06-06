@@ -33,10 +33,10 @@ _Software Engineering Sr Manager, AP Firmware_
 * Oversaw the bring up of the [AP24](https://www.juniper.net/us/en/products/access-points/ap24-access-point.html) and [AP64](https://www.juniper.net/us/en/products/access-points/ap64-access-point-datasheet.html) Wi-Fi 6e Access Points
 * Led a multi-company collaboration to introduce support for [Electronic Shelf Labels (ESL)](https://www.mist.com/documentation/esl-how-to-configuration/) on the Mist Platform
 * Leveraged FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
-* Liaison between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
+* Bridged the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
   * Improved Manufacturing workflows for all Access Points
   * Reduced cloud cost by intelligently reporting stats and events for the Data Science team to process in Marvis
-  * Introduction of new location and BLE technologies, such as AP to AP Location and Battery-Less beacons
+  * Introduced new location and BLE technologies, such as AP to AP Location and Battery-Less beacons
 
 ###### Apr 2019 – Dec 2021
 _Senior Staff Software Engineer, AP Firmware_
