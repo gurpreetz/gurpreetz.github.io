@@ -7,14 +7,12 @@ permalink: /experience/
 ##### (Juniper Networks acquired by Hewlett Packard Enterprise)
 ###### Nov 2025 - Present
 _Director of Engineering_
-* [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html), a Networking Digital Experience Twin - proactively validating user networks
-* [Indoor Location Services](https://www.juniper.net/us/en/solutions/indoor-location.html) (including the mobile SDK and apps)
-* IoT including, but not limited to
-  * [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) on the Mist AP Platform
-  * [Bluetooth Low Energy](https://www.juniper.net/documentation/us/en/software/mist/location-services/topics/task/mist-broadcast-ble-beacon.html)
-  * Ultra-Wideband (for Two-Way Ranging between APs and [Omlox](https://omlox.com/juniper-networks) support)
-  * Zigbee
-* [Access Point Firmware](https://www.juniper.net/us/en/products/access-points.html)
+* Lead a globally distributed organization of 15+ engineers and managers across the US and India, spanning AP Firmware, IoT, Indoor Location, and Mobile Apps
+* Serve as Lead Architect for [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html), an AI-native network digital experience twin — collaborating with engineering and data science teams across multiple geographies to proactively validate enterprise networks and prevent network issues before they impact users
+* Oversee IoT platform development including BLE, UWB, Zigbee, and ESL on the Mist AP Platform
+  * Drive [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) deployments at scale, including at multiple Fortune 100 companies — simplifying retail and warehouse operations at some of the world's largest retailers
+  * Own [Indoor Location Services](https://www.juniper.net/us/en/solutions/indoor-location.html) end-to-end, including the mobile SDK and apps, with BLE and Ultra-Wideband as the foundational technologies powering location accuracy
+* Serve as a key technical bridge between the Mist and Aruba engineering teams to deliver the [AP-723H](https://community.hpe.com/t5/networking/hpe-networking-delivers-first-wi-fi-7-ap-supporting-hpe-mist-or/ba-p/7266509) — HPE's first dual-platform Wi-Fi 7 Access Point, supporting both HPE Mist and HPE Aruba Central — working across firmware, cloud, supply chain, and manufacturing
 
 ### [Juniper Networks](https://www.juniper.net), Cupertino, CA
 ##### (Mist Systems acquired by Juniper Networks)
