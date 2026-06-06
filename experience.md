@@ -18,24 +18,25 @@ _Director of Engineering_
 ##### (Mist Systems acquired by Juniper Networks)
 ###### Jul 2024 – Nov 2025
 _Software Engineering Director_
-* [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) - an always on framework to proactively validate user networks
-* [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) on the Mist AP Platform
-* [Indoor Location Services](https://www.juniper.net/us/en/solutions/indoor-location.html)
+* Stepped up from leading the AP Firmware team to owning a broader portfolio spanning IoT, Indoor Location, and Mobile Apps
+* Architected and built [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) from concept to product — transforming an idea into a core enterprise offering for proactive network validation
+* Drove initial enterprise deployments of [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) on the Mist AP Platform
+* Introduced Ultra-Wideband (UWB) into the [Indoor Location Services](https://www.juniper.net/us/en/solutions/indoor-location.html) stack, unlocking new use cases
 
 ###### Dec 2021 – Jun 2024
 _Software Engineering Sr Manager, AP Firmware_
-* Manage a global team of 7 engineers to architect, design, and implement:
+* Managed a global team of 7 engineers to architect, design, and implement:
   * [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) - an always on framework to proactively validate user networks
   * Mesh and Client Bridge on all Access Points
   * Local distribution of 11r keys to allow for faster and seamless roaming
   * Cloud based power tables to better handle regulatory changes of wireless networks
-* Oversee the bring up of the [AP24](https://www.juniper.net/us/en/products/access-points/ap24-access-point.html) and [AP64](https://www.juniper.net/us/en/products/access-points/ap64-access-point-datasheet.html) Wi-Fi 6e Access Points
-* Lead a multi-company collaboration to introduce support for [Electronic Shelf Labels (ESL)](https://www.mist.com/documentation/esl-how-to-configuration/) on the Mist Platform
-* Leverage FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
+* Oversaw the bring up of the [AP24](https://www.juniper.net/us/en/products/access-points/ap24-access-point.html) and [AP64](https://www.juniper.net/us/en/products/access-points/ap64-access-point-datasheet.html) Wi-Fi 6e Access Points
+* Led a multi-company collaboration to introduce support for [Electronic Shelf Labels (ESL)](https://www.mist.com/documentation/esl-how-to-configuration/) on the Mist Platform
+* Leveraged FIPS experiences to build a FedRAMP compliant Upgrade Service and EndPoint Terminator
 * Liaison between the AP Firmware team and the Hardware, Cloud, Data Science, and Location Teams which results in
   * Improved Manufacturing workflows for all Access Points
   * Reduced cloud cost by intelligently reporting stats and events for the Data Science team to process in Marvis
-  * Introduction of new locationing and BLE technologies, such as AP to AP Locationing and Battery-Less beacons
+  * Introduction of new location and BLE technologies, such as AP to AP Location and Battery-Less beacons
 
 ###### Apr 2019 – Dec 2021
 _Senior Staff Software Engineer, AP Firmware_
@@ -91,7 +92,7 @@ device development which can
   * Scan for all devices advertising in the area, and connect to them
   * Connect to specific devices and creates an XML as well as human readable summary of services and characteristics supported by the BLE device
   * Compare BLE interface design with implementation to detect inconsistencies
-* Designed and implemented the Firmware and BLE Interface and for a smart lamp
+* Designed and implemented the Firmware and BLE Interface for a smart lamp
 
 ### [Alcatel-Lucent](https://networks.nokia.com/), Mountain View, CA
 ###### September 2009 – July 2015                                                                           
@@ -104,7 +105,7 @@ _Senior Staff Engineer, IP Division (Mobile Group)_
 * Developed a message batching mechanism that reduced control-to-data plane latency for the [SGW, PGW, and GGSN](https://networks.nokia.com/products/7750-service-router/mobile-gateway) — enabling higher-scale messaging between modules under production load
 
 ### [Cisco Systems Inc](https://www.cisco.com/), San Jose, CA 
-##### June 2008 – September 2009
+###### June 2008 – September 2009
 _Software Engineer (Mobility Services and Location Engineering) Wireless and Security Technology Group_
 
 * Designed the network calibration tool on the Wireless Control System ([WCS](https://www.cisco.com/c/en/us/products/wireless/wireless-control-system/index.html)) to improve location accuracy on WiFi Networks.
@@ -113,13 +114,13 @@ _Software Engineer (Mobility Services and Location Engineering) Wireless and Sec
 * Created and tested a demo iPhone application to show the basic alarm dashboard of the WCS. This was demonstrated at the Cisco Global Sales Meeting, 2008.
 
 ### [Apple Inc](https://www.apple.com/), Cupertino, CA
-##### May 2007 – August 2007
+###### May 2007 – August 2007
 _Engineering Intern, Exploratory Design Group_
 
  Developed a prototype command and event mechanism for seamless network handover between IEEE 802.11, Ethernet, and HSDPA networks based on the draft IEEE 802.21 standard.
  
 ### [Tata Consultancy Services Ltd](https://www.tcs.com/), Bangalore, India 
-##### July 2004 – July 2006
+###### July 2004 – July 2006
 _Assistant Systems Engineer, Wireless Communications R&D_
 
 * Led the research on Game Theory and its applications to Medium Access issues in Wireless Communications.
