@@ -26,7 +26,7 @@ Today our world is pervaded by a variety of networks, and we have devices that c
 of varying reaches at many different locations. The type of networks include PANs such as Bluetooth, LANs 
 like IEEE 802.11 and Ethernet, and WANs like UMTS and WiMax.
 
-This project focussed on developing a prototype mechanism to faciliate seamless transitions from one 
+This project focused on developing a prototype mechanism to faciliate seamless transitions from one 
 network to another based on characteristics of the networks, and requirements of the applications being used. 
 This prototype was based on the IEEE 802.21 standard.
 

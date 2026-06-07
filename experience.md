@@ -76,7 +76,7 @@ of standard as well as proprietary BLE advertisements
 * Implemented mechanisms and new messaging schemes to reduce load on the cloud based micro-services while reporting information from the access points such as
   * BloomFilter based filtering on Connected Wireless Clients and BLE Assets of Interest
   * Creation of new, smaller Kafka topics to reduce load on cloud based subscribers
-* Work closely with the factory for device certification and to facilitate ease of manufacturing
+* Worked closely with the factory for device certification and to facilitate ease of manufacturing
 
 ### [Blue Clover Devices](https://www.bcdevices.com/), San Francisco, CA
 ###### Jul 2015 – Nov 2016
