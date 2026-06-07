@@ -18,7 +18,7 @@ _Director of Engineering_
 ##### (Mist Systems acquired by Juniper Networks)
 ###### Jul 2024 – Nov 2025
 _Software Engineering Director_
-* Stepped up from leading the AP Firmware team to owning a broader portfolio spanning IoT, Indoor Location, and Mobile Apps
+* Led a portfolio spanning IoT, Indoor Location, and Mobile Apps alongside AP Firmware — while simultaneously serving as hands-on architect across all areas
 * Architected and built [Marvis Minis](https://www.juniper.net/us/en/products/cloud-services/marvis-virtual-network-assistant/marvis-minis.html) from concept to product — transforming an idea into a core enterprise offering for proactive network validation
 * Drove initial enterprise deployments of [Electronic Shelf Labels (ESL)](https://www.juniper.net/documentation/us/en/software/mist/mist-wireless/topics/task/mist-device-profile-enable-els.html) on the Mist AP Platform
 * Introduced Ultra-Wideband (UWB) into the [Indoor Location Services](https://www.juniper.net/us/en/solutions/indoor-location.html) stack, unlocking new use cases
