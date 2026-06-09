@@ -63,13 +63,11 @@ _Member of Technical Staff, AP Firmware_
   * Development of firmware on the Mist family of [wireless access points](https://www.mist.com/wireless-access-points/) 
 for all BLE related functionality, including, but not limited to
     * interleaving of Mist's patented vBLE, iBeacon, Eddystone-UID, and Eddystone-URL BLE beacon frame formats 
-    * scanning as well as advertising together, to allow functionality such as way-finding and asset tracking 
-to run in conjunction
+    * scanning as well as advertising together, to allow functionality such as way-finding and asset tracking to run in conjunction
     * packet decoding to facilitate BLE passive analytics
     * power control for transmission of the BLE Signal from the Access Point
   * Design and prototyping of BLE functionality on the Nordic nRF52 family using [Zephyr](https://github.com/zephyrproject-rtos/zephyr)
-  * Research in [passive analytics](https://www.mist.com/bluetooth-le-privacy/) of BLE devices including decoding 
-of standard as well as proprietary BLE advertisements 
+  * Research in [passive analytics](https://www.mist.com/bluetooth-le-privacy/) of BLE devices including decoding of standard as well as proprietary BLE advertisements 
 * WiFi threat detection and mitigation for
   * Rogue access points and clients
   * HoneyPots
